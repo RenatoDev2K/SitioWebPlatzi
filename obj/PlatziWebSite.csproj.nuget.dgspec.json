@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj": {}
+    "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj": {
+    "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectUniqueName": "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "projectName": "PlatziWebSite",
-        "projectPath": "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\PlatziWebSite\\PlatziWebSite.csproj",
+        "projectPath": "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\SitioWebPlatzi\\PlatziWebSite.csproj",
         "packagesPath": "C:\\Users\\alvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\PlatziWebSite\\obj\\",
+        "outputPath": "C:\\Users\\alvar\\Documents\\Platzi\\Web Apps\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alvar\\AppData\\Roaming\\NuGet\\NuGet.Config",
